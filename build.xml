@@ -21,5 +21,6 @@
         <java jar="build/jar/HelloWorld.jar" fork="true"/>
 	</target>
 	</target>
+	</target>
 
 </project>
