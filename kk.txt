@@ -7,3 +7,4 @@ New line
 new line again added
 new line added again and again
 finally end
+begin
