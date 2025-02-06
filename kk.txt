@@ -4,3 +4,4 @@ Line3
 Line4
 New testing bug
 New line
+new line again added
